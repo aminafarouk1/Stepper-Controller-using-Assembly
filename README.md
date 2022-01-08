@@ -150,7 +150,6 @@ are pinned in opposition to simplify board layout.
 <div style="display:inline-block; ">
   <span style="width:74%;float:left; display:inline-block;">
 <p>
-	user-images.githubusercontent.com/47794171/148622247-341294ba-ee08-4594-a055-89ec9ede6704.jpg
 
   <ul>
 - 18650 Lithium Charge & Discharge Integrated Li-ion Battery 2A 5V With Battery Level Indicator
